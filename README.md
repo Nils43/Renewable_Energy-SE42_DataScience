@@ -10,14 +10,14 @@ Contact: nils.heck@code.berlin
 ---
 
 ## Overview
-### 1) How did global renewables develop from 1971–2015?
-### 2) Which countries had the highest average annual growth rates (1990–2015)?
-### 3) When was the largest absolute annual increase worldwide (the year with the
-### biggest global delta)?
-### 4) Who contributed most to global growth by period?
-### 5) Which countries were the earliest to show a sustained turnaround in the
-### build‑out of renewables — and how early was that compared to the global
-### average?
+1) How did global renewables develop from 1971–2015?
+ 2) Which countries had the highest average annual growth rates (1990–2015)?
+ 3) When was the largest absolute annual increase worldwide (the year with the
+ biggest global delta)?
+ 4) Who contributed most to global growth by period?
+ 5) Which countries were the earliest to show a sustained turnaround in the
+ build‑out of renewables — and how early was that compared to the global
+ average?
 ## Key Questions & Answers
 
 ### 1) How did global renewables develop from 1971–2015?
