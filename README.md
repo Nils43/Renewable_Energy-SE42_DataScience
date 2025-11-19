@@ -23,6 +23,8 @@ Between 1971 and 2015, global renewable energy (ktoe) grew steadily, with a clea
 ## Key Questions & Answers
 
 ### 1) How did global renewables develop from 1971–2015?
+<img width="1310" height="476" alt="image" src="https://github.com/user-attachments/assets/666071d8-8929-4d5f-9f5e-3f90d3d53d16" />
+
 - Steady growth up to ~2000, followed by a pronounced acceleration from mid‑2000s.
 - By 2015, levels ≈950k ktoe.
 - Strongest YoY gains in 2010–2015 window.
